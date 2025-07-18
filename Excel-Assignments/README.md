@@ -22,6 +22,11 @@ Each assignment demonstrates a specific concept in Excel, including data cleanin
 
 ---
 
+### 📈 Sales and Profit Trend Analysis
+![Sales & Profit Analysis](Sales_and_profit_analysis_dashboards.png)
+
+---
+
 ## 🧠 Key Concepts Practiced
 
 - Data Cleaning and Formula Application
